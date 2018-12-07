@@ -1,0 +1,116 @@
+1540054772937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\andriusb\\AppData\\Local\\Temp\\rust_mozprofile.R8SpzCHiqlD1"
+1540054774670	Marionette	INFO	Listening on port 61991
+1540054775061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540054775085	Marionette	DEBUG	[6442450945] Frame script loaded
+1540054775087	Marionette	DEBUG	[6442450945] Frame script registered
+1540054880598	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540054880853	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540054881493	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.delfi.lt/
+1540054891902	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.delfi.lt/
+1540054931950	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.delfi.lt/
+1540054932639	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.delfi.lt/
+1540054932650	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.delfi.lt/
+1540054932745	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451139
+1540054932747	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451133
+1540054932747	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451031
+1540054932749	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451040
+1540054932750	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451051
+1540054932750	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451046
+1540054932751	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451077
+1540054932751	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1540054932752	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451070
+1540054932752	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451072
+1540054932758	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://automatetheboringstuff.com/
+1540054932930	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451020
+1540054932930	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451003
+1540054932931	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1540054932931	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1540054932931	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451016
+1540054932931	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450999
+1540054932931	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1540054932932	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451037
+1540054932932	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451015
+1540054932932	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1540054932932	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451043
+1540054932932	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451029
+1540054932932	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1540054932933	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451044
+1540054932933	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451033
+1540054932933	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1540054932934	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451053
+1540054932934	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451039
+1540054932934	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1540054932935	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451059
+1540054932935	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451045
+1540054932935	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1540054932935	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451061
+1540054932936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451054
+1540054932936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1540054932936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451075
+1540054932936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451068
+1540054932936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1540054932936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451019
+1540054932936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451002
+1540054932936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451018
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451001
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451107
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451117
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451125
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451129
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451110
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451105
+1540054932937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451022
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451010
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451114
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451128
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451135
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451137
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451121
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451119
+1540054932938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451021
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451004
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451096
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451099
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451101
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451103
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451123
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540054932939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451094
+1540054933685	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://automatetheboringstuff.com/
+1540055247652	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://automatetheboringstuff.com/
+console.error: "Error while calling actor 'pagestyle's method 'getComputed'" "node is null"
+console.error: "getComputed@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:227:5\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1159:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1783:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:735:7\n"
+console.error: "Protocol error (unknownError): node is null"
+1540055247729	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://automatetheboringstuff.com/
+1540055247731	Marionette	DEBUG	[6442450945] Received DOM event unload for https://automatetheboringstuff.com/
+1540055247805	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://automatetheboringstuff.com/chapter0/
+1540055247874	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://automatetheboringstuff.com/chapter0/
+1540055299197	Marionette	DEBUG	[6442451146] Frame script loaded
+1540055299206	Marionette	DEBUG	[6442451146] Frame script registered
+1540055299206	Marionette	DEBUG	[2147483652] Frame script loaded
+1540055299209	Marionette	DEBUG	[2147483652] Frame script registered
+[Parent 117828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 73264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 732641540055552728	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://automatetheboringstuff.com/
+1540055552728	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://automatetheboringstuff.com/
+1540055552732	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://automatetheboringstuff.com/chapter0/
+1540055653088	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://automatetheboringstuff.com/
+1540055653088	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://automatetheboringstuff.com/
+1540055653103	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://automatetheboringstuff.com/chapter0/
+1540056107628	Marionette	DEBUG	[6442451153] Frame script loaded
+1540056107642	Marionette	DEBUG	[6442451153] Frame script registered
+[Parent 117828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 118808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11880[Parent 117828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 117828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 118360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 118360, Chrome_Chil1540056147159	Marionette	INFO	Stopped listening on port 61991
+[GPU 118652,
